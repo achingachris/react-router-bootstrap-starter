@@ -1,14 +1,11 @@
-import { Container } from 'react-bootstrap'
-
-import Menu from '../components/Menu'
-import Header from '../components/Header'
+import AboutHeader from '../components/AboutHeader'
 
 const AboutPage = () => {
-    return (
-        <div>
-            About Page
-        </div>
-    )
+  return (
+    <>
+      <AboutHeader />
+    </>
+  )
 }
 
 export default AboutPage
