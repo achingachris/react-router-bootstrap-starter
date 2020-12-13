@@ -4,10 +4,9 @@ const Header = () => {
   return (
     <Container>
       <div className='starter-template text-center mt-5'>
-        <h1>Bootstrap starter template</h1>
+        <h1>React Bootstrap Starter</h1>
         <p className='lead'>
-          Use this document as a way to quickly start any new project. All you
-          get is this text and a mostly barebones HTML document.
+          A starter template for react with bootstrap
         </p>
       </div>
     </Container>

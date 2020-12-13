@@ -28,10 +28,10 @@ Start editing and customizing according to your needs.
 
 ## Dependencies:
 
-[React](https://reactjs.org/)
-[Create React App](https://create-react-app.dev/)
-[react-bootstrap](https://react-bootstrap.github.io/)
-[gh-pages](https://pages.github.com/)
+- [React](https://reactjs.org/)
+- [Create React App](https://create-react-app.dev/)
+- [react-bootstrap](https://react-bootstrap.github.io/)
+- [gh-pages](https://pages.github.com/)
 
 ## Bugs and Issues
 
