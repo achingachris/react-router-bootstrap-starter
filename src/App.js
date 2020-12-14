@@ -1,5 +1,5 @@
 import { Container } from 'react-bootstrap'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom'
 
 // components
 import Menu from './components/Menu'
@@ -17,7 +17,7 @@ const App = () => {
       <Menu />
       <main>
         <Container>
-          <Route path='/' component={HomePage} exact />
+          <Route path='/react-bootstrap-starter' component={HomePage} exact />
           <Route path='/about' component={AboutPage} />
         </Container>
       </main>
