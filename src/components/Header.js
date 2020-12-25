@@ -1,10 +1,10 @@
 import { Container } from 'react-bootstrap'
 
-const Header = () => {
+const Header = (props) => {
   return (
     <Container>
       <div className='starter-template text-center mt-5'>
-        <h1>Landing Page</h1>
+        <h1>{props.pageTitle} Page</h1>
         <p className='lead'>
           A starter template for react with bootstrap
         </p>

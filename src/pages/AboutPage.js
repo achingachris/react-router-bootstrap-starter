@@ -1,5 +1,5 @@
 import {Helmet} from "react-helmet";
-import AboutHeader from '../components/AboutHeader'
+import Header from '../components/Header'
 
 const AboutPage = () => {
   return (
@@ -8,7 +8,7 @@ const AboutPage = () => {
         <title>About Page</title>
         <meta name="description" content="Helmet application" />
     </Helmet>
-      <AboutHeader />
+      <Header pageTitle='About' />
     </>
   )
 }

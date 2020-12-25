@@ -8,7 +8,7 @@ const HomePage = () => {
         <title>Home Page</title>
         <meta name="description" content="Helmet application" />
     </Helmet>
-      <Header />
+      <Header pageTitle='Landing'/>
     </div>
   )
 }
