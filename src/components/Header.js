@@ -5,9 +5,7 @@ const Header = (props) => {
     <Container>
       <div className='starter-template text-center mt-5'>
         <h1>{props.pageTitle} Page</h1>
-        <p className='lead'>
-          A starter template for react with bootstrap
-        </p>
+        <p className='lead'>{props.pageDescription}</p>
       </div>
     </Container>
   )

@@ -1,14 +1,14 @@
-import {Helmet} from "react-helmet";
+import { Helmet } from 'react-helmet'
 import Header from '../components/Header'
 
 const AboutPage = () => {
   return (
     <>
-    <Helmet>
+      <Helmet>
         <title>About Page</title>
-        <meta name="description" content="Helmet application" />
-    </Helmet>
-      <Header pageTitle='About' />
+        <meta name='description' content='Helmet application' />
+      </Helmet>
+      <Header pageTitle='About' pageDescription='About Page' />
     </>
   )
 }
