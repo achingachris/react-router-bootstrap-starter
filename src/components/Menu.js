@@ -12,7 +12,7 @@ const Menu = () => {
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
           <Navbar.Collapse id='basic-navbar-nav'>
             <Nav className='mr-auto'>
-              <LinkContainer to='/about'>
+              <LinkContainer to='/react-bootstrap-starter/about'>
                 <Nav.Link>About</Nav.Link>
               </LinkContainer>
             </Nav>
