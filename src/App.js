@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 // components
 import Menu from './components/Menu'
+import Footer from './components/Footer'
 
 // pages
 import HomePage from './pages/HomePage'
@@ -21,6 +22,7 @@ const App = () => {
           <Route path='/react-bootstrap-starter/about' component={AboutPage} />
         </Container>
       </main>
+      <Footer />
     </Router>
   )
 }
