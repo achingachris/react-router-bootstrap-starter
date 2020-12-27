@@ -6,8 +6,8 @@ import Menu from './components/Menu'
 import Footer from './components/Footer'
 
 // pages
-import HomePage from './pages/HomePage'
-import AboutPage from './pages/AboutPage'
+import Home from './pages/Home'
+import About from './pages/About'
 
 // styles
 import './App.css'
@@ -18,8 +18,8 @@ const App = () => {
       <Menu />
       <main>
         <Container>
-          <Route path='/react-bootstrap-starter' component={HomePage} exact />
-          <Route path='/react-bootstrap-starter/about' component={AboutPage} />
+          <Route path='/react-bootstrap-starter' component={Home} exact />
+          <Route path='/react-bootstrap-starter/about' component={About} />
         </Container>
       </main>
       <Footer />
