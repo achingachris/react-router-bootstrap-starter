@@ -4,11 +4,17 @@
 
 [Documentation](https://chrisdev.hashnode.dev/react-and-bootstrap-starter-template)
 
-React Bootstrap Starter is a starter template for react and bootstrap created by [Chris Achinga](http://chrisachinga.me). This theme uses Create React App, react-bootstrap and gh-pages.
+React Bootstrap Starter is a starter template for react and bootstrap created by [Chris Achinga](http://chrisdev.netlify.app). This theme uses Create React App, react-bootstrap and gh-pages.
 
 ## Preview
 
-![screenshot](screenshot.png)
+**Home Page**
+
+![home page preview](home.png)
+
+**About Page**
+
+![about page preview](about.png)
 
 ## Download and Installation
 
@@ -18,13 +24,19 @@ Fork and clone the repository.
 
 Install the dependencies:
 
-```shell
+```powershell-interactive
 npm install
 ```
 
 ## Usage
 
 Start editing and customizing according to your needs.
+
+Run locally:
+
+```powershell-interactive
+npm start
+```
 
 ## Dependencies:
 
