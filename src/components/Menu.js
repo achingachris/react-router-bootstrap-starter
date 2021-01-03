@@ -7,7 +7,7 @@ const Menu = () => {
       <Navbar bg='dark' variant='dark' expand='lg' collapseOnSelect>
         <Container>
           <LinkContainer to='/react-bootstrap-starter'>
-            <Navbar.Brand>Starter Template</Navbar.Brand>
+            <Navbar.Brand>Template</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
           <Navbar.Collapse id='basic-navbar-nav'>
