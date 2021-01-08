@@ -51,7 +51,7 @@ Have a bug or an issue with this template? Open a new issue here on GitHub.
 
 ## Copyright and License
 
-Copyright 2020 Chris Achinga. Code released under the [MIT license](LICENSE).
+Copyright 2021 Chris Achinga. Code released under the [MIT license](LICENSE).
 
 ## Status
 
