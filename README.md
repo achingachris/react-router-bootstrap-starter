@@ -8,14 +8,6 @@ React Bootstrap Starter is a starter template for react and bootstrap created by
 
 ## Preview
 
-**Home Page**
-
-![home page preview](home.png)
-
-**About Page**
-
-![about page preview](about.png)
-
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
