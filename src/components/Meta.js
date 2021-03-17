@@ -1,6 +1,6 @@
 import { Helmet } from 'react-helmet'
 
-const CustomHelmet = ({ title }) => {
+const Meta = ({ title }) => {
   return (
     <Helmet>
       <title>{title}</title>
@@ -8,4 +8,4 @@ const CustomHelmet = ({ title }) => {
   )
 }
 
-export default CustomHelmet
+export default Meta
