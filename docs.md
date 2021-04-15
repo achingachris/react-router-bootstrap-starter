@@ -1,4 +1,4 @@
-![image-banner](react-bootstrap-starter.png)
+![image-banner](./screenshots/react-bootstrap-starter.png)
 
 > This is an update to the previous article I wrote on [React & Bootstrap Starter Template](https://chrisdev.hashnode.dev/react-and-bootstrap-starter-template)
 
@@ -40,8 +40,8 @@ I have 4 ready-to-use components:
 2.  ### Header
 
     The Header component is the one that appears right below the navigation bar on the template:
-    ![header-screenshot](heaader-1.png)
-    ![header2-screenshot](header-2.png)
+    ![header-screenshot](./screenshots/heaader-1.png)
+    ![header2-screenshot](./screenshots/header-2.png)
 
 
     ```js
@@ -71,7 +71,7 @@ I have 4 ready-to-use components:
 
     This is the navigation bar.
 
-    ![menu](MENU-RXT.png)
+    ![menu](./screenshots/MENU-RXT.png)
 
 4.  ### Footer
 
@@ -102,4 +102,4 @@ For the template, I used 2 sample pages: the landing page and about page.
 
 I used react router-dom to set the two pages up.
 
-![app](APP-RXT.png)
+![app](./screenshots/APP-RXT.png)

@@ -1,6 +1,6 @@
 # React Bootstrap Starter
 
-![logo](react-bootstrap-starter.png)
+![logo](./screenshots/react-bootstrap-starter.png)
 
 [Documentation](https://chrisdev.hashnode.dev/react-and-bootstrap-starter-template) | [Live Demo](https://react-bootstrap-temp.netlify.app/)
 
