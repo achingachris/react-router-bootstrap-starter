@@ -1,7 +1,7 @@
 // router
 import { BrowserRouter as Router} from 'react-router-dom'
 
-import Meta from '../components/Meta'
+// components
 import Menu from '../components/Menu'
 import Footer from '../components/Footer'
 
