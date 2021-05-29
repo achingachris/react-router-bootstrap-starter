@@ -1,7 +1,9 @@
 import { Container } from 'react-bootstrap'
 import { Route, Switch } from 'react-router-dom'
+
 // Layout
 import Layout from './layout/Layout'
+
 // pages
 import Home from './pages/Home'
 import About from './pages/About'
