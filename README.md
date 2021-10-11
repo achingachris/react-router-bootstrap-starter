@@ -2,7 +2,7 @@
 
 ![logo](./screenshots/react-bootstrap-starter.png)
 
-[Documentation](https://chrisdev.hashnode.dev/react-and-bootstrap-starter-template) | [Live Demo](https://react-bootstrap-temp.netlify.app/)
+[Documentation](https://chrisdevcode.hashnode.dev/react-and-bootstrap-starter-template) | [Live Demo](https://react-bootstrap-temp.netlify.app/)
 
 React Bootstrap Starter is a starter template for react and bootstrap created by [Chris Achinga](http://chrisdev.netlify.app). This theme uses Create React App, react-bootstrap and gh-pages.
 
