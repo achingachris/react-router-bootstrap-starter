@@ -1,5 +1,5 @@
 import { Container } from 'react-bootstrap'
-import { Route, Switch } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 
 // Layout
 import Layout from './layout/Layout'
@@ -13,11 +13,17 @@ const App = () => {
   return (
     <Layout>
       <Container>
-        <Switch>
-          <Route path='/' component={Home} exact />
-          <Route path='/about' component={About} />
-          <Route component={NotFound} />
-        </Switch>
+        <Routes>
+          <Route path='/' exact>
+            <Home />
+          </Route>
+          <Route path='/about'>
+            <About />
+          </Route>
+          <Route>
+            <NotFound />
+          </Route>
+        </Routes>
       </Container>
     </Layout>
   )
