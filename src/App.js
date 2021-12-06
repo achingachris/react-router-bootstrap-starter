@@ -1,26 +1,26 @@
-import { Container } from 'react-bootstrap'
-import { Route, Switch } from 'react-router-dom'
+import { Container } from "react-bootstrap";
+import { Routes, Route } from "react-router-dom";
 
 // Layout
-import Layout from './layout/Layout'
+import Layout from "./layout/Layout";
 
 // pages
-import Home from './pages/Home'
-import About from './pages/About'
-import NotFound from './pages/NotFound'
+import Home from "./pages/Home";
+import About from "./pages/About";
+import NotFound from "./pages/NotFound";
 
 const App = () => {
   return (
     <Layout>
       <Container>
-        <Switch>
-          <Route path='/' component={Home} exact />
-          <Route path='/about' component={About} />
-          <Route component={NotFound} />
-        </Switch>
+        <Routes>
+          <Route path="/" element={<Home />} exact />
+          <Route path="/about" element={<About />} />
+          <Route element={<NotFound />} />
+        </Routes>
       </Container>
     </Layout>
-  )
-}
+  );
+};
 
-export default App
+export default App;
