@@ -1,60 +1,65 @@
-# React Bootstrap Starter
+<a name="readme-top"></a>
 
-![logo](./screenshots/react-bootstrap-starter.png)
+<br />
 
-[Documentation](https://chrisdevcode.hashnode.dev/react-and-bootstrap-starter-template) | [Live Demo](https://react-bootstrap-temp.netlify.app/)
+<!-- Page Header -->
+<div align="center">
+  <a href="https://github.com/achingachris/react-router-bootstrap-starter">
+    <img src="./screenshots/react-bootstrap-starter.png" alt="Logo" width="200" height="200">
+  </a>
 
-React Bootstrap Starter is a starter template for react and bootstrap created by [Chris Achinga](http://chrisdev.netlify.app). This theme uses Create React App, react-bootstrap and gh-pages.
+  <h1 align="center">React-Router-Boostrap Starter Template</h1>
+
+  <p align="center">
+    React Bootstrap Starter is a starter template for react and bootstrap created by Chris Achinga. This theme uses `Create React App`, `react-bootstrap` and `gh-pages`.
+    <br />
+    <a href="https://github.com/achingachris/react-router-bootstrap-starter"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://react-bootstrap-temp.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/achingachris/react-router-bootstrap-starter/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/achingachris/react-router-bootstrap-starter/issues">Request Feature</a>
+  </p>
+</div>
+
+## Getting Started
+
+This is how you set up the project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+
+- NodeJS
+- Node Package Manager (npm) or yarn
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/achingachris/react-router-bootstrap-starter.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Running the project
+   ```sh
+   npm start
+   ```
 
 
-## Download and Installation
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To begin using this template, choose one of the following options to get started:
-
-Fork and clone the repository.
-
-Install the dependencies:
-
-```powershell-interactive
-npm install
-```
-
-## Usage
-
-Start editing and customizing according to your needs.
-
-Run locally:
-
-```powershell-interactive
-npm start
-```
-
-## Dependencies:
+### Dependencies:
 
 - [React](https://reactjs.org/)
 - [Create React App](https://create-react-app.dev/)
 - [react-bootstrap](https://react-bootstrap.github.io/)
 
-## Bugs and Issues
 
-Have a bug or an issue with this template? Open a new issue here on GitHub.
-
-## Copyright and License
-
-Copyright 2021 Chris Achinga. Code released under the [MIT license](LICENSE).
-
-## Status
-
-<div align='center'>
-
-[![GitHub forks](https://img.shields.io/github/forks/ChrisAchinga/react-bootstrap-starter)](https://github.com/ChrisAchinga/react-bootstrap-starter/network)
-
-[![GitHub stars](https://img.shields.io/github/stars/ChrisAchinga/react-bootstrap-starter)](https://github.com/ChrisAchinga/react-bootstrap-starter/stargazers)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/status.svg)](https://depfu.com)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/overview.svg)](https://depfu.com/github/ChrisAchinga/react-bootstrap-starter?project_id=18009)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/count.svg)](https://depfu.com/github/ChrisAchinga/react-bootstrap-starter?project_id=18009)
-
-</div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- USAGE EXAMPLES -->
