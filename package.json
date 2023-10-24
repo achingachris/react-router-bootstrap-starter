@@ -1,7 +1,7 @@
 {
   "name": "react-bootstrap-starter",
-  "version": "0.5.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^11.1.0",
