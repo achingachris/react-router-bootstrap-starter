@@ -12,7 +12,7 @@
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
     "react-router-bootstrap": "^0.25.0",
-    "react-router-dom": "^6.17.0",
+    "react-router-dom": "^6.19.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
